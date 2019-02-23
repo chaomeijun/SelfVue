@@ -4,7 +4,7 @@
 
 ## 效果图
 ![Mou icon](./selfvue.gif)
-## 博客地址
+## 博客地址 https://www.cnblogs.com/libin-1/p/6893712.html
 
 
 
